@@ -11,6 +11,9 @@ evant documents and lines by the queried words.
 # Test environment 
 Ubuntu 18.04 build-essential
 
+# how to get the executables
+make
+
 # how to run the server
 [server_name] [absolute_path_to_target] [port]
 

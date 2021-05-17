@@ -6,6 +6,8 @@ s in the memory.
 - Searching: the server program handles a large
 number of request with a 10 threads in a thread pool, and it should respond to rel
 evant documents and lines by the queried words.
+
+
 (2) There are 2 client programs that send multiple requests to a Web server.
 
 # Test environment 
